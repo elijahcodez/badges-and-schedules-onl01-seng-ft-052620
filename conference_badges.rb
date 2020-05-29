@@ -21,4 +21,5 @@ def printer(names)
     puts badge
   end
   
+  assign_rooms
 end
