@@ -7,4 +7,5 @@ end
 def batch_badge_creator(names)
   names.map do |name|
     badge_maker(name)
-    
+  end
+  
